@@ -1,8 +1,8 @@
 # Nícolas Felipe Cavalcanti Araujo
 ## Fullstack Developer
 
-Email: nicolasfcaraujo@gmail.com
-Location: Brazil, SC
+- Email: nicolasfcaraujo@gmail.com
+- Location: Brazil, SC
 
 ### Experience
 
