@@ -1,45 +1,38 @@
-# Nicolas F. C. Araujo 🙂
+# Nícolas Felipe Cavalcanti Araujo
+## Fullstack Developer
 
-## Fullstack Developer 💻
+Email: nicolasfcaraujo@gmail.com
+Location: Brazil, SC
 
-Detail-oriented Fullstack Developer with 2 years of experience in web development, specializing in creating dynamic, user-centric web experiences. Skilled in React.js, Next.js, TypeScript, JavaScript (ES6+), Node.js, and GraphQL. Proficient in both independent and collaborative projects, with a strong focus on landing page and website development.
+### Experience
 
-### Technologies 🔭
+#### Red Balloons Studios - (2022 - 2024)
+- Development and enhancement of Full Stack applications using technologies such as Angular, ReactJS, NextJS, and/or NodeJS
+- Integration of AWS services such as S3, EC2, and CloudFront
+- Integration of the PayPal API for international payments
+- Integration with internal APIs following RESTful and GraphQL standards
 
-- React.js / Next.js
-- Redux
-- JavaScript (ES6+) / TypeScript
-- Node.js
-- GraphQL
-- MySQL
-- HTML
-- CSS / Tailwind CSS
-- Cypress
+#### LightREF - (2023 - 2024)
+- Front End application development with NextJS, implementing dynamic and secure components
+- Integration with Stripe's Payment Gateway
+- NodeJS API development, utilizing Prisma to optimize data management
 
-### Contact 📞
+### Skills
+- Frontend:  ReactJS, Angular 2+, NextJS, TailwindCSS, GraphQL;
+- Backend: NodeJS, MySQL, PostgreSQL;
+- Cloud: AWS;
+- Methodologies: Scrum;
+- Version Control: GIT, GitHub;
+- Soft skills: Organization, Agility, Teamwork.
 
-- E-mail: nicolasfcaraujo@gmail.com
-- Portfolio: [Portfolio](https://portfolio-nicolasfcaraujo-gmailcom.vercel.app)
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/nicolas-fc-araujo)
-- Github: [Github Profile](https://github.com/NicolasfcAraujo)
+### Languages
+- Portuguese: native
+- English: B2
 
-### Experience 🗂️
+### Education
+#### University
+- UNIASSELVI - Software Engineering (in progress)
 
-#### Fullstack Developer at Red Balloons Studios
-
-- Built a responsive webpage for the company arts showcase using React.js, Node.js, JavaScript(ES6+), HTML, and CSS. [Red Balloons Studios Project](link-to-project)
-- Reduced the number of API calls, resulting in a 20% savings in server costs. Utilized Next.js, Node.js, TypeScript, Redux Toolkit, TailwindCSS, GraphQL, and AWS. [Red Balloons Store Project](link-to-project)
-
-#### Fullstack Developer at LightREF
-
-- Designed, integrated, and deployed a project at LightREF.
-- Optimized images, videos, and code to improve UX, resulting in a 15% increase in user conversion rates. Utilized Next.js, RestAPI, Redux Toolkit, TypeScript, and MySQL. [LIGHTREF Project](link-to-project)
-
-### Education 📚
-
-- Bachelor's Degree in Software Engineering from UNIASSELVI
-
-### Languages 🗣️
-
-- Portuguese - native
-- English - B2
+#### Courses
+- UDEMY - Javascript Tutorial and Projects Course | John Smilga (47h)
+- UDEMY - GraphQL by Example | Mirko Nasato (8h)
