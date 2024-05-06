@@ -1,38 +1,43 @@
 # Nícolas Felipe Cavalcanti Araujo
-## Fullstack Developer
+## Full Stack Developer
 
 - Email: nicolasfcaraujo@gmail.com
-- Location: Brazil, SC
+- Github: https://github.com/NicolasfcAraujo
+- Pomerode, SC - Brasil
 
-### Experience
 
-#### Red Balloons Studios - (2022 - 2024)
-- Development and enhancement of Full Stack applications using technologies such as Angular, ReactJS, NextJS, and/or NodeJS
-- Integration of AWS services such as S3, EC2, and CloudFront
-- Integration of the PayPal API for international payments
-- Integration with internal APIs following RESTful and GraphQL standards
+### Experiência
 
-#### LightREF - (2023 - 2024)
-- Front End application development with NextJS, implementing dynamic and secure components
-- Integration with Stripe's Payment Gateway
-- NodeJS API development, utilizing Prisma to optimize data management
+#### Red Balloons Studios - (fev. 2022 - mar. 2024)
+- Desenvolvimento e aprimoramento de aplicações Full Stack utilizando tecnologias como Angular 2+, ReactJS, NextJS e NodeJS
+- Integração dos serviços AWS como o S3, EC2 e CloudFront
+- Integração da API do PayPal para pagamentos internacionais
+- Integração com APIs internas em padrões RESTful e GraphQL
 
-### Skills
-- Frontend:  ReactJS, Angular 2+, NextJS, TailwindCSS, GraphQL;
-- Backend: NodeJS, MySQL, PostgreSQL;
+### Projetos
+
+#### LightREF 
+- Desenvolvimento de aplicações Front End com NextJS, implementando componentes dinâmicos e seguros
+- Integração com o Payment Gateway do Stripe
+- Desenvolvimento de API em NodeJS, utilizando o Prisma para otimizar a gestão de dados
+
+#### HR Web
+- Desenvolvimento de uma API robusta em Java utilizando o Spring Framework
+- Construção de componentes Frontend no Angular 17 
+- Conteinerização com Docker para facilitar a distribuição e execução 
+- Repositório GitHub - HR Web
+
+### Habilidades
+- Frontend: Angular 2+, ReactJS, NextJS, TailwindCSS;
+- Backend: Java, Spring Boot, NodeJS;
+- Banco de dados: MySQL, PostgreSQL, GraphQL;
 - Cloud: AWS;
-- Methodologies: Scrum;
-- Version Control: GIT, GitHub;
-- Soft skills: Organization, Agility, Teamwork.
+- Conteinerização: Docker, Docker Compose
 
-### Languages
-- Portuguese: native
-- English: B2
+### Idiomas
+- Português: nativo
+- Inglês: B2
 
-### Education
-#### University
-- UNIASSELVI - Software Engineering (in progress)
+### Educação
 
-#### Courses
-- UDEMY - Javascript Tutorial and Projects Course | John Smilga (47h)
-- UDEMY - GraphQL by Example | Mirko Nasato (8h)
+- UNIASSELVI - Engenharia de Software (cursando)
