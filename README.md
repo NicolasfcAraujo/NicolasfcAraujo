@@ -1,9 +1,9 @@
 # Nícolas Felipe Cavalcanti Araujo
-## Full Stack Developer
+## Software Engineer 
 
 - Email: nicolasfcaraujo@gmail.com
 - Github: https://github.com/NicolasfcAraujo
-- Pomerode, SC - Brasil
+- Pomerode, SC - Brazil
 
 
 ### Professional Experience  
@@ -26,17 +26,28 @@
 - Wrote and maintained **unit and integration tests** using **JUnit, Jest, and Cypress**, ensuring code quality.  
 - Managed and deployed applications in **AWS** (EC2, S3, Lambda, RDS, among others).
 
-### Habilidades
-- Frontend: Angular 2+, ReactJS, NextJS, TailwindCSS;
-- Backend: Java, Spring Boot, NodeJS;
-- Banco de dados: MySQL, PostgreSQL, GraphQL;
-- Cloud: AWS, Azure;
-- Conteinerização: Docker, Docker Compose
+### Skills  
 
-### Idiomas
-- Português: nativo
-- Inglês: B2
+#### Backend  
+- Java (Spring Boot), RESTful APIs, Microservices, Kafka  
+- MongoDB, PostgreSQL, MySQL  
+- Testing: JUnit, Jest, Cypress  
+
+#### Frontend  
+- Angular, ReactJS, TypeScript  
+- UI development with Figma  
+
+#### DevOps & Cloud  
+- AWS (EC2, S3, Lambda, RDS, etc...), Azure  
+- CI/CD, Docker, Kubernetes  
+
+#### Other  
+- Agile (Scrum, Kanban), Git, API documentation (Swagger, Postman)
+
+### Languages
+- Portuguese: native
+- English: B2
 
 ### Educação
 
-- UNIASSELVI - Engenharia de Software (cursando)
+- UNIASSELVI - Software Engineering (2023 - 2026)
