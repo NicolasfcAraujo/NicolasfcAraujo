@@ -9,7 +9,7 @@
 ### Professional Experience  
 
 #### NETZSCH Bombas & Sistemas – *Intern Software Engineer*  
-**Pomerode, SC | Jul 2024 - Mar 2025**  
+**Pomerode, SC | Jul 2024 - Present**  
 - Developed and maintained **widgets, dashboards, and custom websites** using **Angular**.  
 - Built and consumed **RESTful APIs** using **JavaScript and Python**.  
 - Implemented **automated tests** and **CI/CD pipelines** to ensure code quality and continuous integration.  
