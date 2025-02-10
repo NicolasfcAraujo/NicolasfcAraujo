@@ -6,15 +6,25 @@
 - Pomerode, SC - Brasil
 
 
-### Experiência
+### Professional Experience  
 
-#### Netzsch do Brasil - (jul. 2024 - Atualmente)
+#### NETZSCH Bombas & Sistemas – *Intern Software Engineer*  
+**Pomerode, SC | Jul 2024 - Mar 2025**  
+- Developed and maintained **widgets, dashboards, and custom websites** using **Angular**.  
+- Built and consumed **RESTful APIs** using **JavaScript and Python**.  
+- Implemented **automated tests** and **CI/CD pipelines** to ensure code quality and continuous integration.  
+- Deployed, monitored, and logged applications in **Microsoft Azure**, utilizing services such as **App Service, Application Insights, and Log Analytics**.  
+- Ensured design fidelity by following **Figma** specifications.  
+- Worked in **Agile environments (Scrum/Kanban)**, collaborating with cross-functional teams for continuous software delivery.  
 
-#### Red Balloons Studios - (fev. 2022 - mar. 2024)
-- Desenvolvimento e aprimoramento de aplicações Full Stack utilizando tecnologias como Angular 2+, ReactJS, NextJS e NodeJS
-- Integração dos serviços AWS como o S3, EC2 e CloudFront
-- Integração da API do PayPal para pagamentos internacionais
-- Integração com APIs internas em padrões RESTful e GraphQL
+#### Red Balloons Studios – *Fullstack Developer*  
+**Recife, PE | Feb 2022 - Mar 2024**  
+- Developed **scalable and high-performance APIs** using **Java (Spring Boot)** for the backend.  
+- Designed and optimized **RESTful APIs**, ensuring efficient communication between services and frontend.  
+- Built interactive web applications using **Angular and ReactJS** for the frontend.  
+- Containerized applications with **Docker**, including optimized **Dockerfiles** and container management.  
+- Wrote and maintained **unit and integration tests** using **JUnit, Jest, and Cypress**, ensuring code quality.  
+- Managed and deployed applications in **AWS** (EC2, S3, Lambda, RDS, among others).
 
 ### Habilidades
 - Frontend: Angular 2+, ReactJS, NextJS, TailwindCSS;
