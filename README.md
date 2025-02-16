@@ -3,8 +3,7 @@
 
 - Email: nicolasfcaraujo@gmail.com
 - Github: https://github.com/NicolasfcAraujo
-- Pomerode, SC - Brazil
-
+- Pomerode, SC - Brazil  
 
 ### Professional Experience  
 
@@ -22,9 +21,11 @@
 - Developed **scalable and high-performance APIs** using **Java (Spring Boot)** for the backend.  
 - Designed and optimized **RESTful APIs**, ensuring efficient communication between services and frontend.  
 - Built interactive web applications using **Angular and ReactJS** for the frontend.  
-- Containerized applications with **Docker**, including optimized **Dockerfiles** and container management.  
+- Designed and implemented **microservices architectures**, enabling modular and scalable solutions.  
+- Integrated **Kafka** for event-driven communication between microservices.  
+- Containerized applications with **Docker**, managing multi-container environments using **Docker Compose**.  
 - Wrote and maintained **unit and integration tests** using **JUnit, Jest, and Cypress**, ensuring code quality.  
-- Managed and deployed applications in **AWS** (EC2, S3, Lambda, RDS, among others).
+- Managed and deployed applications in **AWS** (EC2, S3, Lambda, RDS, among others).  
 
 ### Skills  
 
@@ -39,15 +40,14 @@
 
 #### DevOps & Cloud  
 - AWS (EC2, S3, Lambda, RDS, etc...), Azure  
-- CI/CD, Docker, Kubernetes  
+- CI/CD, Docker, Kubernetes, Docker Compose  
 
 #### Other  
-- Agile (Scrum, Kanban), Git, API documentation (Swagger, Postman)
+- Agile (Scrum, Kanban), Git, API documentation (Swagger, Postman)  
 
-### Languages
-- Portuguese: native
-- English: B2
+### Languages  
+- Portuguese: native  
+- English: B2  
 
-### Educação
-
+### Educação  
 - UNIASSELVI - Software Engineering (2023 - 2026)
