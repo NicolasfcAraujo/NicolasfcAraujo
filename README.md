@@ -10,7 +10,7 @@
 #### NETZSCH Bombas & Sistemas – *Intern Software Engineer*  
 **Pomerode, SC | Jul 2024 - Present**  
 - Developed and maintained **widgets, dashboards, and custom websites** using **Angular**.  
-- Built and consumed **RESTful APIs** using **JavaScript and Python**.  
+- Built and consumed **RESTful APIs** using **JavaScript**.  
 - Implemented **automated tests** and **CI/CD pipelines** to ensure code quality and continuous integration.  
 - Deployed, monitored, and logged applications in **Microsoft Azure**, utilizing services such as **App Service, Application Insights, and Log Analytics**.  
 - Ensured design fidelity by following **Figma** specifications.  
